@@ -1,10 +1,8 @@
-# MarsRoverImage - Web Application
+# Image"MarsRover" - Web Application
 
-This Web application is designed to collect image data gathered by NASA's Curiosity, Opportunity, and Spirit rovers on Mars using NASA's Mars Rover Photos API. 
+This web application is dedicated to gathering image data obtained by NASA's Curiosity, Opportunity, and Spirit rovers on Mars. It achieves this by utilizing NASA's Mars Rover Photos API.
 
-Input: The certain date to fetch images and the cameras.
-
-
+Input: User input consists of specifying a specific date for image retrieval and selecting the preferred cameras for image collection.
 
 Language: Java , JavaScript.
 Framework: Spring Boot 2, Bootstrap 4.
